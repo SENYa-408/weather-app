@@ -1,7 +1,7 @@
 const searchbox = document.getElementById("search");
 
 const api = {
-  key: "",
+  key: "PUT YOUR KEY HERE",
   base: "https://api.openweathermap.org/data/2.5/",
 };
 
